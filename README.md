@@ -1,7 +1,7 @@
 # 🚀 ApexPrompt - The Ultimate Multi-AI Hub
 
-![ApexPrompt Banner](https://via.placeholder.com/1200x400/111111/a8c7fa?text=ApexPrompt+-+Compare+Answers+From+The+World's+Best+AI+Models)
-*(Note: You can replace this image link later with a real screenshot of your website)*
+![ApexPrompt Banner](assets/Screenshot 2026-07-15 182203.png)
+
 
 **ApexPrompt** is a powerful, unified AI aggregator built to maximize productivity. Instead of jumping between multiple tabs, ApexPrompt allows you to query the world's best AI models (ChatGPT, Claude, and Gemini) simultaneously from a single, beautifully designed dark-mode interface.
 
