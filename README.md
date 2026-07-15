@@ -42,14 +42,16 @@ Go back to [www.apexpromt.dev](https://www.apexpromt.dev), refresh the page, sel
 *   **JavaScript:** Vanilla JS (ES6+) for DOM manipulation and extension bridging.
 *   **Chrome Extension API:** Manifest V3, Content Scripts, Background Service Workers.
 *   **Hosting:** Vercel (Custom `.dev` domain integration).
-## 🤖 AI Assistance & Acknowledgements
+## 🤖 AI-Assisted Development
 
-As a project built *for* interacting with multiple AI models, it is only fitting that it was developed *with* the help of AI! Advanced AI assistants (including Gemini and ChatGPT) were utilized throughout the development process as pair-programming partners. They played a crucial role in:
-*   Brainstorming logic for seamless DOM manipulation.
-*   Debugging complex Chrome Extension APIs (Manifest V3, Message Passing).
-*   Optimizing JavaScript structure and UI/UX elements. 
+While the core architecture, logic building, and problem-solving for ApexPrompt were entirely conceptualized and executed by me, I actively embraced AI tools (like Gemini and ChatGPT) to enhance my productivity and development workflow. 
 
-Embracing AI tools has significantly accelerated the development workflow and problem-solving process for this project.
+I utilized AI primarily as a virtual assistant for:
+*   **Rapid Debugging:** Quickly identifying minor syntax errors or DOM manipulation bugs.
+*   **Brainstorming Approaches:** Exploring best practices for Chrome Extension Manifest V3 configurations.
+*   **Workflow Optimization:** Generating basic boilerplate code, allowing me to focus 100% on the core engineering and custom UI/UX design.
+
+This project reflects my ability to not only write complex logic independently but also leverage modern AI tools to speed up execution and work more efficiently.
 
 ## 👨‍💻 Developer
 
