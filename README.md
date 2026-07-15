@@ -42,6 +42,14 @@ Go back to [www.apexpromt.dev](https://www.apexpromt.dev), refresh the page, sel
 *   **JavaScript:** Vanilla JS (ES6+) for DOM manipulation and extension bridging.
 *   **Chrome Extension API:** Manifest V3, Content Scripts, Background Service Workers.
 *   **Hosting:** Vercel (Custom `.dev` domain integration).
+## 🤖 AI Assistance & Acknowledgements
+
+As a project built *for* interacting with multiple AI models, it is only fitting that it was developed *with* the help of AI! Advanced AI assistants (including Gemini and ChatGPT) were utilized throughout the development process as pair-programming partners. They played a crucial role in:
+*   Brainstorming logic for seamless DOM manipulation.
+*   Debugging complex Chrome Extension APIs (Manifest V3, Message Passing).
+*   Optimizing JavaScript structure and UI/UX elements. 
+
+Embracing AI tools has significantly accelerated the development workflow and problem-solving process for this project.
 
 ## 👨‍💻 Developer
 
