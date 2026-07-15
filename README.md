@@ -45,7 +45,7 @@ Go back to [www.apexpromt.dev](https://www.apexpromt.dev), refresh the page, sel
 
 ## 👨‍💻 Developer
 
-**Md. Eyasin (Jafiyan Ahmed Rafi)**
+**Md. Eyasin**
 *   Computer Science & Technology Enthusiast 
 *   Passionate about Web Development, UI/UX, and Hardware Modifications.
 
